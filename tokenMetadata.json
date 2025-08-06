@@ -1,0 +1,14 @@
+{
+  "name": "jpsolanatoken",
+  "symbol": "JPSOL",
+  "description": "JPSOLtoken is the utility token of jai prakash.",
+  "image": "https://raw.githubusercontent.com/Hamerffer/solona_token/master/trading-platform-des..._imresizer.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Hamerffer/solona_token/master/trading-platform-des..._imresizer.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
